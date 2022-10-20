@@ -1,6 +1,6 @@
 # How to view the bing map using WPF Map control
 
-This repository contains sample for how to view bing map using the [Syncfusion WPF Maps](https://help.syncfusion.com/wpf/maps/getting-started) control.
+This repository contains sample to view bing map using the [Syncfusion WPF Maps](https://help.syncfusion.com/wpf/maps/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/10799/how-to-view-bing-map-using-wpf-map-control-sfmap).
 
